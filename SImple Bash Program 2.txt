@@ -2,9 +2,9 @@
 
 read -p "Enter your name: " name
 
-if [ "$name" == "Daniel"]
+if [ "$name" == "Dieko"]
 then
-echo "You are Daniel"
+echo "You are dumb"
 else
-echo "You are not Daniel"
+echo "You are smart"
 fi
