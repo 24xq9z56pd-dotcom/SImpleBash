@@ -1,0 +1,10 @@
+#!/bin/bash
+
+read -p "Enter your name: " name
+
+if [ "$name" = "Daniel"]
+then
+echo "You are Daniel"
+else
+echo "You are not Daniel"
+fi
